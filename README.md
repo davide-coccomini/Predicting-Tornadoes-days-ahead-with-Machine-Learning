@@ -15,6 +15,7 @@ area which is represented by a grid.
 
 
 ![Metrics](images/metrics.png "Metrics")
+
 For each cell of this grid, the meteorological information listed in the table are considered. These are meteorological
 information that could play a role in tornadogenesis and have also been used in other previous work as shown in
 Section 2. Each grid covers an area of 5 latitude/longitude degrees side. The considered area is deliberately very large
