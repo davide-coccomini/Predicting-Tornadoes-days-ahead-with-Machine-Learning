@@ -1,4 +1,4 @@
-# Predicting Tornadogenesis with Machine Learning using Meteorological Data
+# Predicting Tornadoes days ahead with Machine Learning
 
 This is the official repository of the paper "Predicting Tornadogenesis with Machine Learning using Meteorological Data" and is designed to allow other researchers to reproduce the results presented in the paper but also to exploit the dataset for their own experiments. Within this repository there are also a number of additional files used in the research phase to explore the effectiveness of various approaches.
 
